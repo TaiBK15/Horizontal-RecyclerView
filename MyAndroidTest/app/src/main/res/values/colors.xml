@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+<!--===================KEYWORD FIELD======================-->
+    <color name="colorTextHeading">#000</color>
+    <color name="colorTextKeywordItem">#fff</color>
+    <color name="colorKeywordItem_1">#009000</color>
+    <color name="colorKeywordItem_2">#006D00</color>
+    <color name="colorKeywordItem_3">#BF6900</color>
+    <color name="colorKeywordItem_4">#752556</color>
+    <color name="colorKeywordItem_5">#006DA9</color>
+    <color name="colorKeywordItem_6">#9A4600</color>
+    <color name="colorKeywordItem_7">#9C2000</color>
+    <color name="colorKeywordItem_8">#760000</color>
+    <color name="colorKeywordItem_9">#004A56</color>
+    <array name="colorKeywordItem">
+        <item>@color/colorKeywordItem_1</item>
+        <item>@color/colorKeywordItem_2</item>
+        <item>@color/colorKeywordItem_3</item>
+        <item>@color/colorKeywordItem_4</item>
+        <item>@color/colorKeywordItem_5</item>
+        <item>@color/colorKeywordItem_6</item>
+        <item>@color/colorKeywordItem_7</item>
+        <item>@color/colorKeywordItem_8</item>
+        <item>@color/colorKeywordItem_9</item>
+    </array>
+
+</resources>

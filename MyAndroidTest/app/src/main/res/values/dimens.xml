@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--padding-->
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <!--text size-->
+    <dimen name="text_size_20">22sp</dimen>
+    <dimen name="text_size_25">25sp</dimen>
+    <!--keyword item high size-->
+    <dimen name="keyword_item_high_size">100dp</dimen>
+    <!--radius cardview keyword item-->
+    <dimen name="keyword_item_radius">10dp</dimen>
+
+</resources>
