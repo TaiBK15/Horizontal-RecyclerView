@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private MyRecyclerViewAdapter mAdapter;
     private ArrayList<String> mKeyword;
     private final String TAG = "MainActivity";
-    private char c;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

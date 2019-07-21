@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Android Test</string>
+    <string name="hot_keyword">Từ khóa hot</string>
 </resources>

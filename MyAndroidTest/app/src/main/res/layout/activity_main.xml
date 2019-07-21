@@ -23,7 +23,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Từ khóa hot"
+                android:text="@string/hot_keyword"
                 android:textColor="@color/colorTextHeading"
                 android:textSize="@dimen/text_size_25"
                 android:layout_marginTop="@dimen/padding_7"
